@@ -39,8 +39,8 @@ DELIMITER ;
 
 
 
-
--- procedimientos:
+--
+-- procedimientooss:
 DELIMITER //
 
 CREATE TRIGGER trg_after_delete_reserva
